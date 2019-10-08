@@ -13,3 +13,5 @@ class cjj():
         return "你是傻逼"
     def asd(self):
         pass
+    def ss(self):
+        pass
