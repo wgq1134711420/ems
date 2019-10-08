@@ -19,3 +19,5 @@ class cjj():
 print("asdasd")
 
 import pyecharts
+
+print("xxxx")
