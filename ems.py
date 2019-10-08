@@ -26,3 +26,5 @@ hash("ss")
 
 def uio():
     print("sdf")
+
+print("123123123")
