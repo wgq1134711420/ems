@@ -11,3 +11,5 @@ class cjj():
         pass
     def xau(self):
         return "你是傻逼"
+    def asd(self):
+        pass
