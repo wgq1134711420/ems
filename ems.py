@@ -21,3 +21,5 @@ print("asdasd")
 import pyecharts
 
 print("xxxx")
+
+hash("ss")
