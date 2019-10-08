@@ -15,3 +15,5 @@ class cjj():
         pass
     def ss(self):
         pass
+
+print("asdasd")
