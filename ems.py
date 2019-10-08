@@ -5,3 +5,9 @@ def asd():
 
 def zxc():
     pass
+
+class cjj():
+    def __init__(self):
+        pass
+    def xau(self):
+        return "你是傻逼"
