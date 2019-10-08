@@ -23,3 +23,6 @@ import pyecharts
 print("xxxx")
 
 hash("ss")
+
+def uio():
+    print("sdf")
