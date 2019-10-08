@@ -17,3 +17,5 @@ class cjj():
         pass
 
 print("asdasd")
+
+import pyecharts
